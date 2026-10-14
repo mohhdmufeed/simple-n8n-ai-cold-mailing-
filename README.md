@@ -173,7 +173,6 @@ npx serve .
 ## 👤 Author
 
 Developed by **Mohammed Mufeed**  
-Company: **MuTech**  
 GitHub: [@mohhdmufeed](https://github.com/mohhdmufeed)  
 Repository: [simple-n8n-ai-cold-mailing-](https://github.com/mohhdmufeed/simple-n8n-ai-cold-mailing-)
 
