@@ -4,6 +4,15 @@
 
 ---
 
+## 📸 Visual Preview
+
+<div align="center">
+  <img src="./assets/preview-light.png" alt="Light Mode UI" width="48%" />
+  <img src="./assets/preview-dark.png" alt="Dark Mode UI" width="48%" />
+</div>
+
+---
+
 ## 🌟 Overview
 
 Cold outreach only works when it sounds like a genuine, thoughtful human talking to another human. Most AI-generated cold emails fail because they sound like robotic corporate fluff.
@@ -64,10 +73,13 @@ flowchart LR
 
 ```text
 simple-n8n-ai-cold-mailing-/
-├── index.html        # Clean, humanized frontend UI (Tailwind CSS + Vanilla JS)
-├── codeNode.js       # n8n Code Node script (parses LLM output into subject & body)
-├── prompt.txt        # High-conversion cold email prompt template
-└── README.md         # Comprehensive project documentation
+├── assets/
+│   ├── preview-light.png # Light mode preview
+│   └── preview-dark.png  # Dark mode preview
+├── index.html            # Clean, humanized frontend UI (Tailwind CSS + Vanilla JS)
+├── codeNode.js           # n8n Code Node script (parses LLM output into subject & body)
+├── prompt.txt            # High-conversion cold email prompt template
+└── README.md             # Comprehensive project documentation
 ```
 
 ### File Highlights
